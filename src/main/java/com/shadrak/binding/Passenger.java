@@ -1,7 +1,7 @@
 package com.shadrak.binding;
 
 public class Passenger {
-
+// kind of pojo
 	private String name;
 	private String email;
 	private String doj;
